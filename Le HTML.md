@@ -4,7 +4,7 @@ une balise auto fermante = une balise qui n'a pas de balise de fermeture
 enlever les points dans les balises qui sont là pour les empêcher de devenir fonctionnelles et qu'elles deviennent invisibles
 fermer chaque parenthèse et les guillemets  
 
-Les balises HTML :  
+Les balises HTML :  <>
 Titres : de <.h1> (le plus grand) à <h6.> (le plus petit) 
 Centrer du texte: <Center.>  
 Intégrer un lien :<a href="https://fr.wikipedia.org/wiki/Hatsune_Miku".>  
@@ -41,6 +41,7 @@ Accueil   Services   Produits   Contact
         <li><a href="#">Contact</a></li>
     </ul>
 </nav>
+
 
 
 
