@@ -21,7 +21,7 @@ Accueil   Services   Produits   Contact
               ├── Service 1  
               ├── Service 2  
               └── Service 3)  
-<nav>
+><nav>
     <ul class="menu">
         <li><a href="#">Accueil</a></li>
         <li>
