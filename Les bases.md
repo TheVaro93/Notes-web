@@ -13,7 +13,10 @@ Intégrer une image : <img src="https://external-content.duckduckgo.com/iu/?u=ht
 saut de ligne : <p.>  
 Séparation de la page (crée une lgne horizontale) : <hr.> (balise auto fermante)  
 Italique : <i.>  
-Aliger un texte à droite/ gauche : <p style="text-align: right/left;".>
+Aliger un texte à droite/ gauche : <p style="text-align: right/left;".>  
+<p style="font-family: monospace  ."> (enlever les espaces et le point.)  
+
+
 
 
 
