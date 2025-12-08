@@ -14,7 +14,8 @@ saut de ligne : <p.>
 Séparation de la page (crée une lgne horizontale) : <hr.> (balise auto fermante)  
 Italique : <i.>  
 Aliger un texte à droite/ gauche : <p style="text-align: right/left;".>  
-<p style="font-family: monospace  ."> (enlever les espaces et le point.)  
+Mettre un police d'écriture (ici monospace) :<p.style="font-family: monospace"> (enlever le point et mettre un espace à la place)  
+
 
 
 
