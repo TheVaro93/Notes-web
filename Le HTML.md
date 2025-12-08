@@ -14,12 +14,13 @@ Séparation de la page (crée une lgne horizontale) : <hr.> (balise auto fermant
 Italique : <i.>  
 Aliger un texte à droite/ gauche : <p style="text-align: right/left;".>  
 Mettre un police d'écriture (ici monospace) :<p.style="font-family: monospace"> (enlever le point et mettre un espace à la place)  
-Créer un menu déroulant (non clicable il faudra joindre du css avec pour le rendre fonctionnel sinon ca ressemblera à ca 
+Créer un menu déroulant (non clicable il faudra joindre du css avec pour le rendre fonctionnel sinon ca ressemblera à ca  
 Accueil   Services   Produits   Contact  
               │  
               ├── Service 1  
               ├── Service 2  
-              └── Service 3)  
+              └── Service 3 )
+              
 ><nav>
     <ul class="menu">
         <li><a href="#">Accueil</a></li>
@@ -41,6 +42,7 @@ Accueil   Services   Produits   Contact
         <li><a href="#">Contact</a></li>
     </ul>
 </nav>
+
 
 
 
