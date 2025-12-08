@@ -1,4 +1,4 @@
-*A ne pas oublier** :  
+**A ne pas oublier** :  
 les balises fermantes et ouvrantes (<> et </>)  
 une balise auto fermante = une balise qui n'a pas de balise de fermeture  
 
@@ -15,6 +15,7 @@ Séparation de la page (crée une lgne horizontale) : <hr.> (balise auto fermant
 Italique : <i.>  
 Aliger un texte à droite/ gauche : <p style="text-align: right/left;".>  
 Mettre un police d'écriture (ici monospace) :<p.style="font-family: monospace"> (enlever le point et mettre un espace à la place)  
+
 
 
 
