@@ -3,8 +3,8 @@ les acolades (d'ouverture et de fermeture) {}
 (une partie des notes sont des codes générés par ia)  
 Menu déroulant (relié avec le html)  
 
-><style>
-    /* Réinitialisation des marges et padding */
+     <style> 
+     /* Réinitialisation des marges et padding */
     * {
         margin: 0;
         padding: 0;
