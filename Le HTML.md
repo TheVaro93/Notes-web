@@ -40,12 +40,13 @@ Accueil   Services   Produits   Contact
             </ul>
         </li>
         <li><a href="#">Contact</a></li>
-    </ul>
-</nav>  
-<ul. > signifie liste non ordonnnée, sert a créer une liste sans ordre numérique  
-<li. > signifie listem list, il définit un élément dans une liste et doit toujours se trouver dans une balise <ol> ou <ul>  
-<class. > donne un nom  pour styliser avec du css ou javascript  
-<ol. > liste à puces numérotées  
+    </ul> </nav>  
+
+<ul></ul> signifie liste non ordonnnée, sert a créer une liste sans ordre numérique  
+<li.> signifie listem list, il définit un élément dans une liste et doit toujours se trouver dans une balise <ol> ou <ul>  
+<class.> donne un nom  pour styliser avec du css ou javascript  
+<ol.> liste à puces numérotées  
+
 
 
 
