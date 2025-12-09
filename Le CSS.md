@@ -1,7 +1,7 @@
 **A ne pas oublier:**  
 les acolades (d'ouverture et de fermeture) {}  
 (une partie des notes sont des codes générés par ia)  
-Menu déroulant (relié avec le html)  
+Menu déroulant (relié avec le html):  
 
      <style> 
      /* Réinitialisation des marges et padding */
@@ -61,4 +61,5 @@ Menu déroulant (relié avec le html)
     .menu > li:hover > .sous-menu {
         display: block; /* Affiche le sous-menu */
     } 
-    </style>
+    </style>  
+    
