@@ -60,5 +60,5 @@ Menu déroulant (relié avec le html)
     /* Affiche le sous-menu au survol de l'élément parent */
     .menu > li:hover > .sous-menu {
         display: block; /* Affiche le sous-menu */
-    }
-</style>
+    } 
+    </style>
