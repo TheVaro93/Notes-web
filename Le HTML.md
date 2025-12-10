@@ -15,37 +15,27 @@ Italique : <i.>
 Aliger un texte à droite/ gauche : <p style="text-align: right/left;".>  
 Mettre un police d'écriture (ici monospace) :<p.style="font-family: monospace"> (enlever le point et mettre un espace à la place)  
 Créer un menu déroulant (non clicable il faudra joindre du css avec pour le rendre fonctionnel sinon ca ressemblera à ca  
-Accueil   Services   Produits   Contact  
+             Menu 
               │  
               ├── Service 1  
               ├── Service 2  
               └── Service 3 )
               
-><nav>
     <ul class="menu">
-        <li><a href="#">Accueil</a></li>
         <li>
-            <a href="#">Services</a>
+            <a href="#">Menu</a>
             <ul class="sous-menu">
                 <li><a href="#">Service 1</a></li>
                 <li><a href="#">Service 2</a></li>
                 <li><a href="#">Service 3</a></li>
             </ul>
         </li>
-        <li>
-            <a href="#">Produits</a>
-            <ul class="sous-menu">
-                <li><a href="#">Produit 1</a></li>
-                <li><a href="#">Produit 2</a></li>
-            </ul>
-        </li>
-        <li><a href="#">Contact</a></li>
-    </ul> </nav>  
+    </ul>
 
 <.ul> signifie liste non ordonnnée, sert a créer une liste sans ordre numérique  
-<.li> signifie listem list, il définit un élément dans une liste et doit toujours se trouver dans une balise <.ol> ou <.ul>  
-<.class> donne un nom  pour styliser avec du css ou javascript  
-<.ol> liste à puces numérotées  
+<.li> signifie listem list, il définit un élément dans une liste et doit toujours se trouver dans une balise <.ul>  
+"#" signifie que le lien ne relie à rien car si on ne met rien dans l'endroit pour le lien dans href la page va se rafraichir et ce n'est pas un effet demandé
+
 
 
 
